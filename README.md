@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @kingstar1115
 - 👀 I’m interested in Web developing
 - 💞️ I’m looking to collaborate on innovative develop team.
-- 📫 How to reach me [linkedIn](https:/linkedin/in/goldensun31)
+- 📫 How to reach me [Skype](https://join.skype.com/invite/sHfPGVzfP9De)
 
 ### Languages and tools:
 
