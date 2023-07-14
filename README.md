@@ -3,9 +3,6 @@
 - 💞️ I’m looking to collaborate on innovative develop team.
 - 📫 How to reach me [Skype](https://join.skype.com/invite/sHfPGVzfP9De)
 
-  [![Kingstar1115's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=kingstar1115&bg_color=0d1117&color=00BFFF&line=b13583&point=00BFFF&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
-
-
 ### Languages and tools:
 
   ![js](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
@@ -39,14 +36,9 @@
   ![kotlin](https://img.shields.io/badge/Kotlin-0095D5?&style=for-the-badge&logo=kotlin&logoColor=white)
   ![android-studio](https://img.shields.io/badge/Android_Studio-3DDC84?style=for-the-badge&logo=android-studio&logoColor=white)
   ![spring](https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
- 
-
 <br> <br>
-<p align='center'>
-          <img src='https://user-images.githubusercontent.com/32282846/148982983-f1056dd1-8471-4b8e-baaa-dac6fc8d5f08.gif' />
-          <br>
-</p>
 
+[![Kingstar1115's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=kingstar1115&bg_color=0d1117&color=00BFFF&line=b13583&point=00BF0F&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 <!---
 kingstar1115/kingstar1115 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
