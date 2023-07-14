@@ -1,6 +1,5 @@
-- 👋 Hi, I’m @kingstar1115
-- 👀 I’m interested in Web developing
-- 💞️ I’m looking to collaborate on innovative develop team.
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=00BFFF&size=35&center=true&vCenter=true&width=1000&lines=👋+kingstar1115;👀+Interested+Web+development)](https://git.io/typing-svg)
+
 - 📫 How to reach me [Skype](https://join.skype.com/invite/sHfPGVzfP9De)
 
 <div align="center">  
