@@ -3,6 +3,11 @@
 - 💞️ I’m looking to collaborate on innovative develop team.
 - 📫 How to reach me [Skype](https://join.skype.com/invite/sHfPGVzfP9De)
 
+<div align="center">  
+  <img width="49%" height="180px" src="https://github-readme-stats.vercel.app/api?username=kingstar1115&show_icons=true&count_private=true&hide_border=true&title_color=00BFFF&icon_color=00BFFF&text_color=c9d1d9&bg_color=0d1117" alt="Vanessa github stats" /> 
+  <img width="41%" height="180px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kingstar1115&layout=compact&hide_border=true&title_color=00BFFF&text_color=FFFFFF&bg_color=0d1117" />
+</div>
+
 ### Languages and tools:
 
   ![js](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
