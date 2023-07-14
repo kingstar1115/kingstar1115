@@ -3,6 +3,9 @@
 - 💞️ I’m looking to collaborate on innovative develop team.
 - 📫 How to reach me [Skype](https://join.skype.com/invite/sHfPGVzfP9De)
 
+  [![Kingstar1115's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=avvnessa&bg_color=0d1117&color=00BFFF&line=b13583&point=00BFFF&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
+
 ### Languages and tools:
 
   ![js](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
@@ -18,6 +21,7 @@
   ![php](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)
   ![RabbitMQ](https://img.shields.io/badge/Rabbitmq-FF6600?style=for-the-badge&logo=rabbitmq&logoColor=white)
   ![Bash](https://img.shields.io/badge/GNU%20Bash-4EAA25?style=for-the-badge&logo=GNU%20Bash&logoColor=white)
+
 
 ### Frameworks and libs:
  ![react](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
