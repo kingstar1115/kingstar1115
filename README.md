@@ -42,7 +42,8 @@
   ![spring](https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
 <br> <br>
 
-[![Kingstar1115's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=kingstar1115&bg_color=0d1117&color=00BFFF&line=b13583&point=00BF0F&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+<!--- [![Kingstar1115's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=kingstar1115&bg_color=0d1117&color=00BFFF&line=b13583&point=00BF0F&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph) --->
+
 <!---
 kingstar1115/kingstar1115 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
