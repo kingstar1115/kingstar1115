@@ -2,9 +2,7 @@
 
 - 📫 How to reach me <span title="live:.cid.dd5d6b3bfff25dd"> skype </span>
 ```
-function test() {
-  console.log("This code will have a copy button to the right of it");
-}
+live:.cid.dd5d6b3bfff25dd
 ```
 
 <div align="center">  
